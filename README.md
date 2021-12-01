@@ -14,6 +14,6 @@ Los requerimientos para la ejecución del código del repositorio:
 # Instalación y ejecución
 Para poder instalar y ejecutar el repositorio, se requieren realizar los siguientes pasos:
 1. Clonar el repositorio en una dirección local.
-2. Acceder a la dirección del repositorio y ejecutar npm install.
+2. Acceder a la dirección del repositorio y ejecutar `npm install`.
 3. Dentro del archivo  `prueba.js` modificar la constante `URL` si es necesario, por defecto es `localhost:4200`.
 4. Ejecutar el comando `npm start`.
