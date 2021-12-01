@@ -1,9 +1,9 @@
 # Manage Project with Modules - Pruebas de software automatizadas
-Pruebas automatizadas mediante Selenium al proyecto Manage Project with Modules.
+Pruebas de software automatizadas al proyecto Manage Project with Modules, mediante Selenium WebDriver con Nodejs.
 
 Repositorios del proyecto:
 * Backend del proyecto: [Nicolas-Colque/ISA-BACK](https://github.com/Nicolas-Colque/ISA-BACK)
-* Frontend del proyecto: [Nicolas-Colque/ISA-FRONT](https://hub.docker.com/_/mysql)
+* Frontend del proyecto: [Nicolas-Colque/ISA-FRONT](https://github.com/Nicolas-Colque/ISA-FRONT)
 
 # Requerimientos
 Los requerimientos para la ejecución del código del repositorio:
